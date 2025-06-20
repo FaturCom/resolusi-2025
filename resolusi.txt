@@ -1,14 +1,7 @@
 CODING : 
 1. menguasai javascricpt dom, oop, dan asyncronous
-2. mempelajari dan menguasai node js
-3. mempelajari react js
+2. mempelajari dasar node js
+3. mempelajari dasar react js
 4. mempelajari database
 5. kembali mempelajari python
-6. belajar MERN
-7. membuat website sekolah dengan MERN
-7. bekerja sebagai junior backend web dev atau junior full stack web dev
-
-TRADING : 
-1. belajar dasar trading dan ta
-2. mulai trading crypto
-3. menghasilkan 100,000 per bulan
+6. belajar AI dan Machine Learning
